@@ -2,7 +2,7 @@
 
 <h3 align="left">Github stats:</h3>
 
-![](https://github-readme-stats.vercel.app/api?username=tranhuuhuy297&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.vercel.app/api?username=tranhuuhuy297&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
